@@ -1,6 +1,0 @@
-/home/fausto/Code/WorkSpace/Intelligense_Housekeeper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/fausto/Code/WorkSpace/Intelligense_Housekeeper/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/fausto/Code/WorkSpace/Intelligense_Housekeeper/cmake-build-debug/CMakeFiles/chapter-Day05.dir
-/home/fausto/Code/WorkSpace/Intelligense_Housekeeper/cmake-build-debug/CMakeFiles/chapter-Day03.dir
-/home/fausto/Code/WorkSpace/Intelligense_Housekeeper/cmake-build-debug/CMakeFiles/Intelligense_Housekeeper.dir
-/home/fausto/Code/WorkSpace/Intelligense_Housekeeper/cmake-build-debug/CMakeFiles/chapter-Day04.dir

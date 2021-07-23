@@ -1,1 +1,0 @@
-/usr/bin/cc -g CMakeFiles/chapter-Day03.dir/chapter-Day03/pointerLearn.c.o -o chapter-Day03 
