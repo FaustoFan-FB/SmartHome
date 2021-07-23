@@ -15,7 +15,7 @@ int main(){
             int size = lseek(fd , 0 , SEEK_END);
             lseek(fd , 0 , SEEK_SET);
             read(fd , buff2 , size);
-            write(connfd , buff2 , size);
+            write(connFd , buff2 , size);
         }
     }
 

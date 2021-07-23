@@ -33,8 +33,8 @@ int server_wait_connect(int listenFd){
     memset(&con_addr , 0 ,sizeof(con_addr));
     socklen_t len = sizeof (con_addr);
 
-    int ret = accept(connFd , (const struct sockaddr*)&con_addr , &len);
-    if(ret < 0){ perror("server_wait_connect");return -1;}
+    connFd = accept(listenFd , (const struct sockaddr*)&con_addr , &len);
+    if(connFd < 0){ perror("server_wait_connect");return -1;}
     printf("connect->success\n");
     return connFd;
 }
