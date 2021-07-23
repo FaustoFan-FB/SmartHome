@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/chapter-Day05.dir/chapter-Day05/networkProgramming.c.o CMakeFiles/chapter-Day05.dir/chapter-Day05/server_init.c.o CMakeFiles/chapter-Day05.dir/chapter-Day05/client_init.c.o -o chapter-Day05 

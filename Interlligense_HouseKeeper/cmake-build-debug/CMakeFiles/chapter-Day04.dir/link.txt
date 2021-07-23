@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/chapter-Day04.dir/chapter-Day04/main.c.o CMakeFiles/chapter-Day04.dir/chapter-Day04/file_copy.c.o -o chapter-Day04 

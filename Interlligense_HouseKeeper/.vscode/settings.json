@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.km脑图": "km",
+        "*.pdf": "pdf",
+        "string.h": "c"
+    }
+}
